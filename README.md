@@ -2,7 +2,7 @@
 
 Este é um projeto de um Piano Digital simples e interativo, onde você pode tocar suas músicas favoritas diretamente no navegador. Este  projeto foi feito durante a aula para o  **Bootcamp Potência Tech iFood**, fornecido pela **DIO**.
 
-# Tecnologias
+## Tecnologias
 
 - **HTML** 🌐: Linguagem de marcação usada para estruturar o conteúdo da página web.
 
@@ -16,7 +16,7 @@ Este é um projeto de um Piano Digital simples e interativo, onde você pode toc
 
 - **Visual Studio Code** 🧰: Editor de código usado para escrever, editar e depurar o código do projeto.
 
-# Como usar
+## Como usar
 2. Abra o arquivo `index.html` em seu navegador.
 
 3. Divirta-se tocando músicas no piano!
